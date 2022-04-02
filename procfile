@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --enable_nbextensions=True small scaleweb: voila --port=$PORT --no-browser --enable_nbextensions=True small scale.ipynb
